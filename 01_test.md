@@ -1,4 +1,0 @@
-# Just test
-
-write message
-
